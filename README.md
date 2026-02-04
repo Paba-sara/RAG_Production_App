@@ -18,5 +18,4 @@ A high-performance **Retrieval-Augmented Generation (RAG)** system that connects
 2. Configure `.env` with your API keys.
 3. Run `python main.py` to start the application.
 
----
-**Author:** 3rd Year Data Science Undergraduate @ SLIIT
+
