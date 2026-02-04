@@ -1,4 +1,4 @@
-# RAG Production App 🚀
+# RAG_Production_App 🚀
 
 A high-performance **Retrieval-Augmented Generation (RAG)** system that connects LLMs to custom data sources for accurate, context-aware responses.
 
